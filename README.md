@@ -1,15 +1,6 @@
-# STARTER-jpa03
+# rmarangoly-jpa03
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa03-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa03-rmarangoly.dokku-04.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
@@ -34,7 +25,7 @@ Then:
 
 * Open *two separate terminal windows*  
 * In the first window, start up the backend with:
-  ``` 
+  ``` x
   mvn spring-boot:run
   ```
 * In the second window:
